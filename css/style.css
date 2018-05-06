@@ -30,6 +30,7 @@ footer, header, hgroup, menu, nav, section
 
 body {
   font-size: 14px;
+  padding: inherit;
   line-height: 1;
 }
 
@@ -44,7 +45,7 @@ nav {
 /*This controls the data or information included in the h1 tag*/
 
  h1 {
-    font-family sans-serif;
+    font-family: Helvetica;
     font-size: 2em;
   }
 /*This line organizes and adds depth to the information included in the div tage example in the h1 heading*/
@@ -59,14 +60,14 @@ nav {
 
 h3 {
   font-family: Helvetica;
-  font-size: 1.3em;
+  font-size: 1.5em;
 }
 
 div {
   font-family: Helvetica;
   background-color: green;
-  height: 50vh
-  width: 1200px;
+  height: 10vh;
+  width: 100%;
 }
 /*These are the div elements that appear under section*/
 div.element {
@@ -81,28 +82,28 @@ div.source {
   background-color: orange;
 }
 
-div.element1 {
-  background-color: green;
-}
-
-div.element2 {
-  background-color: yellow;
-}
-
-div.element3 {
-  background-color: red;
-}
-
-div.element4 {
+div.element {
   background-color: blue;
 }
 
-div.element5 {
-  background-color: purple;
+div.element {
+  background-color: blue;
 }
 
-div.element6 {
-  background-color: orange;
+div.element {
+  background-color: blue;
+}
+
+div.element {
+  background-color: blue;
+}
+
+div.element {
+  background-color: blue;
+}
+
+div.element {
+  background-color: blue;
 }
 
 /** This is the ordered list that appears in h3 **/
