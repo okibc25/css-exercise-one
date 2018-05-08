@@ -65,7 +65,7 @@ h3 {
 
 div {
   font-family: Helvetica;
-  background-color: green;
+  background-color: blue;
   height: 10vh;
   width: 100%;
 }
@@ -74,14 +74,6 @@ div.element {
   background-color: blue;
 }
 
-div.feature {
-  background-color: purple;
-}
-
-div.source {
-  background-color: orange;
-}
-
 div.element {
   background-color: blue;
 }
@@ -102,9 +94,10 @@ div.element {
   background-color: blue;
 }
 
-div.element {
-  background-color: blue;
+.last-three {
+  background-color: green;
 }
+
 
 /** This is the ordered list that appears in h3 **/
 ol, ul {
