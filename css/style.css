@@ -30,63 +30,49 @@ footer, header, hgroup, menu, nav, section
 
 body {
   font-size: 14px;
-  padding: inherit;
-  line-height: 1;
 }
 
 nav {
   background-color: gray;
   height: 100px;
   margin-top: 10px 0 auto;
-  position: center;
+  position: fixed;
   width: 100%;
 }
 
+section {
+  margin: 0 auto;
+  width: 60%;
+}
 /*This controls the data or information included in the h1 tag*/
 
  h1 {
-    font-family: Helvetica;
+    font-family: sans-serif;
     font-size: 2em;
   }
 /*This line organizes and adds depth to the information included in the div tage example in the h1 heading*/
 
-.example, h1 {
+.example, h3 {
   font-family: Helvetica;
-  font-style: normal ;
+  padding-top: 30px;
   margin: 0 auto;
-  position:center;
   width: 60%;
+  text-align: center;
 }
 
 h3 {
-  font-family: Helvetica;
-  font-size: 1.5em;
+  font-size: 1.3em;
 }
 
-div {
-  font-family: Helvetica;
+/*These are the div elements that appear under section*/
+.element {
   background-color: blue;
-  height: 10vh;
+  height: 100px;
+  margin: 10px 0;
   width: 100%;
 }
-/*These are the div elements that appear under section*/
-div.element {
-  background-color: blue;
-}
-div.last-three {
+
+/*This div element controls the last three div elements*/
+.last-three {
   background-color: green;
-}
-
-
-/** This is the ordered list that appears in h3 **/
-ol, ul {
-	list-style: none;
-}
-blockquote, q {
-	quotes: none;
-}
-blockquote:before, blockquote:after,
-q:before, q:after {
-	content: '';
-	content: none;
 }
