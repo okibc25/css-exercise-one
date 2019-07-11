@@ -1,5 +1,20 @@
-# css-exercise-one
-# updated the CSS for this project.
-# add comments to organize the style.css file. 
-# push your updates to GitHub
-# Submit work. 
+# CSS Exercise One
+
+# In this assignment, you are tasked with updating the CSS for this project. Follow the steps below to complete this  assignment.
+
+1) Fork the project from GitHub and clone your copy of the project onto your computer.
+
+2) Fork the project from GitHub.
+
+2) Download and add the Eric Meyer CSS reset to my project.
+
+3) Fix any broken CSS that you find in the style.css file associated with the project.
+
+4) Add CSS to alter the background-color of the last three div elements in the index.html file.
+
+5) Add comments to organize the style.css file.
+
+6) Push updates to GitHub.
+
+7) Submit work for review.
+
