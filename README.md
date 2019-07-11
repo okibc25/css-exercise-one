@@ -17,3 +17,5 @@ In this assignment, you are tasked with updating the CSS for this project. Follo
 
 7) Submit work for review.
 
+Final Result: 
+![exercise-one](https://user-images.githubusercontent.com/35229155/61071345-b9a51780-a3c5-11e9-8d50-c68e7554d7ea.png)
