@@ -1,6 +1,5 @@
 # CSS Exercise One
-
-# In this assignment, you are tasked with updating the CSS for this project. Follow the steps below to complete this  assignment.
+In this assignment, you are tasked with updating the CSS for this project. Follow the steps below to complete this  assignment.
 
 1) Fork the project from GitHub and clone your copy of the project onto your computer.
 
